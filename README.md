@@ -28,8 +28,9 @@ The application is deployed and available here:
 ### Home Page
 
 <!-- Add a screenshot of your application's main/home page here -->
+<img width="1201" height="549" alt="image" src="https://github.com/user-attachments/assets/9bef615c-e207-4e89-a653-438905ee88ef" />
 
-![Home Page Screenshot](./screenshots/home.png)
+
 
 > **Screenshot:** Main interface where users can enter or upload content for analysis.
 
@@ -43,7 +44,6 @@ The application is deployed and available here:
 
 ### File Upload / OCR
 
-<img width="1201" height="549" alt="image" src="https://github.com/user-attachments/assets/9bef615c-e207-4e89-a653-438905ee88ef" />
 
 
 
