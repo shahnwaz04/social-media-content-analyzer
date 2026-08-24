@@ -38,19 +38,8 @@ The application is deployed and available here:
 
 <!-- Add a screenshot showing the analysis results here -->
 
-![Content Analysis Screenshot](./screenshots/analysis.png)
+<img width="1129" height="560" alt="image" src="https://github.com/user-attachments/assets/44246ce0-5487-4441-afe6-96d3151ae896" />
 
-> **Screenshot:** Results and insights generated after analyzing the submitted content.
-
-### File Upload / OCR
-
-
-
-
-
-> **Note:** Create a folder named `screenshots` in your project and place your images inside it. You can change the image file names in the README if needed.
-
----
 
 ## How It Works
 
